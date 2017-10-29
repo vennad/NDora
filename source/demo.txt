@@ -1,1 +1,6 @@
-This is demo file
+This is demo file.
+ls 
+ls -ls
+ls -l
+mkdir 
+rmdir
