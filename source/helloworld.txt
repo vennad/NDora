@@ -1,3 +1,10 @@
+ 
 helloworld I modified 
 made quick fix 
 and pushed the changes
+ 
+helloworld
+
+More changes
+More changes
+ Stashed changes
