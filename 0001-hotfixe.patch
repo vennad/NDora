@@ -1,0 +1,22 @@
+From e3775ca6b6bf4bdbe6897a34120f9d1bad4fb23a Mon Sep 17 00:00:00 2001
+From: kumar <gch.kumar@gmail.com>
+Date: Sat, 4 Nov 2017 04:10:10 +0530
+Subject: [PATCH] hotfixe
+
+---
+ source/Register.java | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/source/Register.java b/source/Register.java
+index 905befa..95b22bd 100644
+--- a/source/Register.java
++++ b/source/Register.java
+@@ -1 +1,2 @@
+-Register file
+\ No newline at end of file
++Register file
++hotfi
+\ No newline at end of file
+-- 
+2.14.1.windows.1
+
