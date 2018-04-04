@@ -1,3 +1,0 @@
-git log --oneline
-
-git show ID
